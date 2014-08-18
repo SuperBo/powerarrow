@@ -9,17 +9,19 @@ pathToConfig = "/home/ep/.config/awesome/"
 
 theme.font          = "sans 8"
 
-theme.bg_normal     = "#222222"
-theme.bg_focus      = "#1E2320"
-theme.bg_urgent     = "#3F3F3F"
+theme.bg_normal     = "#000000"
+theme.bg_focus      = "#000000"
+theme.bg_urgent     = "#000000"
+-- theme.bg_minimize
 theme.bg_systray    = theme.bg_normal
 
 theme.fg_normal     = "#AAAAAA"
-theme.fg_focus      = "#0099CC"
-theme.fg_urgent     = "#3F3F3F"
+theme.fg_focus      = "#33B5E5"
+theme.fg_urgent     = "#FF4444"
+-- theme.fg_minimize
 
 theme.border_width  = 1
-theme.border_normal = "#000000"
+theme.border_normal = "#313131"
 theme.border_focus  = "#535d6c"
 theme.border_marked = "#91231c"
 
